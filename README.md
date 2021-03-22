@@ -10,8 +10,3 @@
 - 📫 How to reach me: No way currently...
 - 😄 Pronouns: Good/Dev
 - ⚡ Fun fact: I like cute stuff
--->
-
-<span style="color: red;">This is supposed to be a red text</span>
-
-<p style="text-transform: uppercase;"></p>
