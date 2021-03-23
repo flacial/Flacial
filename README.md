@@ -1,6 +1,6 @@
 ### Hi there ヾ(・ω・*)
 
-- 🔭 I’m currently working on [wordsapiproject](https://github.com/Flacial/wordsapiproject)
+- 🔭 I’m currently working on [flary](https://github.com/flacial/flary)
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on building a website that has all Android ROMs
 - 🤔 I’m looking for help with problem solving techniques
